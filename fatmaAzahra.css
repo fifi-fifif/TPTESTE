@@ -1,0 +1,10 @@
+body{
+    font-family: duVerdana;
+}
+#menu{
+    float: right;
+    width: 28%;
+}
+table td th{
+   border-collapse: collapse;
+}
